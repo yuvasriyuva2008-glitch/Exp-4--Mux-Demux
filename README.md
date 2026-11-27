@@ -150,8 +150,10 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ## Output
 ```
-<img width="1888" height="648" alt="EX-4" src="https://github.com/user-attachments/assets/f5bd6032-3a5c-4058-9a00-70cdc6211d96" />
-<img width="1782" height="723" alt="EX-4 (2)" src="https://github.com/user-attachments/assets/da2dcc6e-947f-4235-acb7-8f8bd82da574" />
+<img width="1888" height="648" alt="EX-4" src="https://github.com/user-attachments/assets/f3c882d1-12c8-460d-a6e8-bc94655493a1" />
+<img width="1782" height="723" alt="EX-4 (2)" src="https://github.com/user-attachments/assets/33dc5e78-7738-486d-ae7c-9c1cac5c88bc" />
+```
+
 
 
 
